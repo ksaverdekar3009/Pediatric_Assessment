@@ -6,6 +6,6 @@ Pediatric Assessment is an web application designed for students in the nursing 
 
 There is also an admin module which allows administrators to approve or deny registration requests from users and to view all user activity and children added by the users. Admins can also approve or deny edit requests for children.
 
-Web Application Link - [Pediatric Assessment](https://nursing.efortune.in/templates/main.php?uid=21bsc001&id=garv_p_2)
+Web Application Link - [Pediatric Assessment](https://nursing.efortune.in/templates/main.php?uid=21bsc001&id=Dummy_LastName_1)
 
 Demo Here - [Demo Link](https://github.com/ksaverdekar3009/Pediatric_Assessment/raw/main/Pediatric_Assessment_Demo_vidio.mp4)
