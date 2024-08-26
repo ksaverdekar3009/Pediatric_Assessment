@@ -8,7 +8,9 @@ There is also an admin module which allows administrators to approve or deny reg
 
 Web Application Link - https://nursing.efortune.in
 
+
 Login Id : 21bsc001
+
 Login Password : 21bsc001
 
 
