@@ -1,7 +1,5 @@
 # Pediatric_Assessment
-Web Application Link - https://nursing.efortune.in
-
-Login Id : 21bsc001
+Web Application Link - https://nursing.efortune.in<br>Login Id : 21bsc001<br>
 
 Login Password : 21bsc001
 
